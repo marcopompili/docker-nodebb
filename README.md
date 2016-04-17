@@ -2,7 +2,7 @@
 
 Docker image for NodeBB.
 
-[![](https://badge.imagelayers.io/emarcs/nodebb:latest.svg)](https://imagelayers.io/?images=emarcs/nodebb:latest 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/emarcs/nodebb:latest.svg)](https://imagelayers.io/?images=emarcs/nodebb:node-4 'Get your own badge on imagelayers.io')
 
 ## Description
 
