@@ -2,6 +2,8 @@
 
 Docker image for NodeBB.
 
+[![](https://badge.imagelayers.io/emarcs/nodebb:latest.svg)](https://imagelayers.io/?images=emarcs/nodebb:latest 'Get your own badge on imagelayers.io')
+
 ## Description
 
 This is a Docker image based on Debian (Jessie), Node 4.x and NodeBB 1.0.
